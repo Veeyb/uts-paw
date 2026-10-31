@@ -1,32 +1,32 @@
 [
   {
     "id": "1",
-    "judul": "Monstera",
-    "kategori": "Tanaman Hias",
+    "judul": "Ceriman",
+    "kategori": "Tanaman Hias Daun",
     "namaLatin": "Monstera Deliciosa",
     "frekuensiSiram": "2 Kali Seminggu",
-    "kebutuhanCahaya": "Sedang (Tidak Langsung)"
+    "kebutuhanCahaya": "Sedang"
   },
   {
     "id": "2",
     "judul": "Lidah Mertua",
-    "kategori": "Tanaman Hias",
+    "kategori": "Tanaman Hias Daun",
     "namaLatin": "Sansviera trifasciata",
     "frekuensiSiram": "1 Kali Seminggu",
-    "kebutuhanCahaya": "Rendah hingga Tinggi"
+    "kebutuhanCahaya": "Rendah"
   },
   {
     "id": "3",
     "judul": "Aglaonema",
-    "kategori": "Tanaman Hias",
+    "kategori": "Tanaman Hias Daun",
     "namaLatin": "Aglaonema commutatum",
     "frekuensiSiram": "2-3 Kali Seminggu",
-    "kebutuhanCahaya": "Rendah hingga Sedang"
+    "kebutuhanCahaya": "Rendah"
   },
   {
     "id": "4",
     "judul": "Kuping Gajah",
-    "kategori": "Tanaman Hias",
+    "kategori": "Tanaman Hias Daun",
     "namaLatin": "Anthurium crystallinum",
     "frekuensiSiram": "3 Kali Seminggu",
     "kebutuhanCahaya": "Sedang"
@@ -34,23 +34,23 @@
   {
     "id": "5",
     "judul": "Anggrek Bulan",
-    "kategori": "Tanaman Hias",
+    "kategori": "Tanaman Hias Bunga",
     "namaLatin": "Phalaenopsis amabilis",
     "frekuensiSiram": "2 Kali Seminggu",
-    "kebutuhanCahaya": "Sedang (Tidak Langsung)"
+    "kebutuhanCahaya": "Sedang"
   },
   {
     "id": "6",
     "judul": "Sirih Gading",
-    "kategori": "Tanaman Hias",
+    "kategori": "Tanaman Hias Merambat",
     "namaLatin": "Epipremnum aureum",
     "frekuensiSiram": "2 Kali Seminggu",
-    "kebutuhanCahaya": "Rendah hingga Sedang"
+    "kebutuhanCahaya": "Sedang"
   },
   {
     "id": "7",
     "judul": "Keladi Hias",
-    "kategori": "Tanaman Hias",
+    "kategori": "Tanaman Hias Daun",
     "namaLatin": "Caladium bicolor",
     "frekuensiSiram": "1 Kali Sehari",
     "kebutuhanCahaya": "Sedang"
@@ -58,25 +58,25 @@
   {
     "id": "8",
     "judul": "Pucuk Merah",
-    "kategori": "Tanaman Hias",
+    "kategori": "Tanaman Hias Semak",
     "namaLatin": "Syzygium myrtifolium",
     "frekuensiSiram": "1 Kali Sehari",
-    "kebutuhanCahaya": "Tinggi (Matahari Penuh)"
+    "kebutuhanCahaya": "Tinggi"
   },
   {
     "id": "9",
-    "judul": "Kaktus Mini",
-    "kategori": "Tanaman Hias",
-    "namaLatin": "Echinocactus grusonii",
+    "judul": "Kaktus Mickey Mouse",
+    "kategori": "Tanaman Hias Kaktus",
+    "namaLatin": "Opuntia microdasys",
     "frekuensiSiram": "1-2 minggu sekali",
-    "kebutuhanCahaya": "Tinggi (Matahari Penuh)"
+    "kebutuhanCahaya": "Tinggi"
   },
   {
     "id": "10",
     "judul": "Bonsai Beringin",
-    "kategori": "Tanaman Hias",
+    "kategori": "Tanaman Hias Bonsai",
     "namaLatin": "Ficius benjamina",
     "frekuensiSiram": "1 Kali Sehari",
-    "kebutuhanCahaya": "Tinggi (Matahari Penuh)"
+    "kebutuhanCahaya": "Tinggi"
   }
 ]
