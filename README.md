@@ -65,17 +65,24 @@ Ganti seluruh isi berkas ini dengan dokumentasi aplikasimu (butir rubrik A4). Ke
 ```markdown
 # Nama Aplikasi
 
-Nama: ...
-NIM: ...
-Kelas: ...
-Tema: ...
-Deployment: https://USERNAME.github.io/uts-paw/
+Nama: Omar Athaya Vito
+NIM: 123140198
+Kelas: RB
+Tema: Koleksi Tanaman Hias
+Deployment: https://Veeyb.github.io/uts-paw/
 
 ![Tangkapan layar beranda](docs/beranda.png)
 
 ## Fitur
-
-- ...
+Umum
+- Umum :Page dapat saling reroute ke masing-masing page, jika page tidak ditemukan maka halaman akan ke direct ke page tidakditemukan.jsx
+Spesifik
+- Beranda : Dapat routing atau pergi ke semua page yang ditampilkan.
+- Page Koleksi : Dapat mencari tanaman sesuai judul dan dapat filter sesuai kategori,judul dapat di klik untuk masuk ke page detail dan halaman koleksi menampilkan card dengan field tertentu.
+- Page Detail : Dapat menghapus koleksi dengan tombol hapus dan kembali untuk kembali ke page koleksi.
+- Page Statistik : Menampilkan statistik berdasarkan variable kategori dan di jumlahkan totalnya pada footer.
+- Page Tambah : Dapat menambahkan koleksi tanaman baru dengan kriteria dan ketentuan yang berlaku dan dapat menyimpan tanaman yang sudah di tambahkan.
+- Page Tentang : Menampilkan data diri pembuat sekaligus terdapat link deploy.
 
 ## Menjalankan secara lokal
 
@@ -85,5 +92,6 @@ npm run dev
 
 ## Konsep React yang dipakai
 
-- ...
-```
+- React Hooks : Dapat dilihat pada hooks yang digunakan seperti useState,useEffect dll pada folder hooks.
+- Event Handling : Dapat dilihat pada fungsi onSubmit pada contoh code pada Tambah.jsx
+
