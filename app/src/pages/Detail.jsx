@@ -28,12 +28,16 @@ export default function Detail() {
     <section>
       <h1>{item.judul}</h1>
       <dl>
+        <dt>ID</dt>
+        <dd>{item.id}</dd>
         <dt>Kategori</dt>
         <dd>{item.kategori}</dd>
-        <dt>Tenggat</dt>
-        <dd>{item.tenggat}</dd>
-        <dt>Prioritas</dt>
-        <dd>{item.prioritas}</dd>
+        <dt>Nama Latin</dt>
+        <dd>{item.namaLatin}</dd>
+        <dt>Frekuensi Siram</dt>
+        <dd>{item.frekuensiSiram}</dd>
+        <dt>Kebutuhan Cahaya</dt>
+        <dd>{item.kebutuhanCahaya}</dd>
       </dl>
       <div className="aksi">
         <button type="button" onClick={konfirmasiHapus}>
