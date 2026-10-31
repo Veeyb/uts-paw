@@ -7,9 +7,14 @@ export default function Tambah() {
 
   const ubah = (e) => setForm({ ...form, [e.target.name]: e.target.value })
 
+  const simpan = (e) => {
+    e.preventDefault()
+    console.log('Data yang akan disimpan:', form)
+  }
+
   return (
-    <form>
-      <h1>Tambah Tugas</h1>
+    <form onSubmit={simpan} noValidate>
+      <h1>Tambah Tanaman</h1>
 
       <label htmlFor="judul">Judul</label>
       <input id="judul" name="judul" value={form.judul} onChange={ubah} />
@@ -21,7 +26,6 @@ export default function Tambah() {
       </select>
 
       <button type="submit">Simpan</button>
-      <p>Isi state saat ini: {JSON.stringify(form)}</p>
     </form>
   )
 }
