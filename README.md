@@ -71,7 +71,9 @@ Kelas: RB
 Tema: Koleksi Tanaman Hias
 Deployment: https://Veeyb.github.io/uts-paw/
 
-![Tangkapan layar beranda](docs/beranda.png)
+![Tangkapan layar beranda]!
+<img width="1165" height="896" alt="image" src="https://github.com/user-attachments/assets/58745438-9d99-4fcc-862d-fc8b8d4d087f" />
+
 
 ## Fitur
 Umum
