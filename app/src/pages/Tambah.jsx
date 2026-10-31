@@ -45,7 +45,7 @@ export default function Tambah() {
       <input id="namaLatin" name="Nama Latin" value={form.namaLatin} onChange={ubah} placeholder="Masukkan Nama Latin Tanaman"/>
 
       <label htmlFor="frekuensiSiram">Frekuensi Siram</label>
-      <input id="namaLatin" name="Nama Latin" value={form.frekuensiSiram} onChange={ubah} placeholder="Contoh: 1 Kali Seminggu"/>
+      <input id="frekuensiSiram" name="Frekuensi Siram" value={form.frekuensiSiram} onChange={ubah} placeholder="Contoh: 1 Kali Seminggu"/>
 
       <label htmlFor="kebutuhanCahaya">Kebutuhan Cahaya</label>
       <select id="kebutuhanCahaya" name="Kebutuhan Cahaya" value={form.kebutuhanCahaya} onChange={ubah}>
